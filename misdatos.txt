@@ -1,0 +1,8 @@
+Nombre:
+	Daniel
+
+Apellido:
+	Hurtado [DEPRECATED]
+
+Telefono:
+	666999111 [DEPRECATED]
